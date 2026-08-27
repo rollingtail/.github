@@ -1,9 +1,9 @@
-# Rolling Tail
+# RollingTail GitHub Profile
 
-Tailscale community platforms that actually updates
+This is the README displayed on the RollingTail GitHub profile.
+The README can be viewed [here](profile/README.md).
 
-## Development
-This project is currently in currently in beta.
+## License
 
-## Platforms
-- **Home Assistant**: See the [Home Assistant Add-on README](https://github.com/rollingtail/home-assistant/tree/main/README.md) for installation and configuration information.
+The profile README is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+For more information, see the [LICENSE](LICENSE.md).
