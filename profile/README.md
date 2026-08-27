@@ -1,4 +1,4 @@
-# Rolling Tail
+# RollingTail
 
 Tailscale community platforms that actually updates
 
